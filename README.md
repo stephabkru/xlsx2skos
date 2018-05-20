@@ -1,2 +1,2 @@
 # xlsx2skos
-Converter from xlsx to skis on python
+Converter from xlsx to skos on python
